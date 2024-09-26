@@ -11,3 +11,4 @@ async function visualizarInformacoesGlobais() {
     }
 
     visualizarInformacoesGlobais()
+
