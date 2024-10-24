@@ -1,4 +1,4 @@
-const url = 'https://raw.githubusercontent.com/guilhermeonrails/api/main/dados-globais.json'
+const url = 'https://raw.githubusercontent.com/Flavialemes/ciencia-de-dados/refs/heads/main/base-de-dados/educacao-dados-globais.json'
 
 async function visualizarInformacoesGlobais() {
 
